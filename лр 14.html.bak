@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<LINK REL=STYLESHEET href="style.css" TYPE="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset="UTF-8">
 <title>Таблиці в Microsoft Excel</title>
+<LINK REL=STYLESHEET href="style.css" TYPE="text/css">
+
 </head>
 <body>
 <div id="b1"></div>
